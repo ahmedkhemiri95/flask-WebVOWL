@@ -17,7 +17,7 @@ To convert and visualize your ontology file automatically :
 
 # IMPORTANT NOTE
 
-To convert and visualize an ontology file with diffirent extenstions (RDF,OWL..):
+To convert and visualize an ontology file with different extenstions (RDF,OWL..):
 * Please navigate to application/owl2vowl.py script and change the file extension.
 * It's important to keep ontology file name to "YOUR_ONTOLOGY".
 
