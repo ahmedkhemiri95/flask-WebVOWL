@@ -15,7 +15,7 @@ To convert and visualize your ontology file automatically :
 * Rename your ontology file to "YOUR_ONTOLOGY.TTL" 
 * Place it in data folder (application/static/data)
 
-## IMPORTANT NOTE
+## Important Note
 
 To convert and visualize an ontology file with different extenstions (RDF,OWL..):
 * Please navigate to application/owl2vowl.py script and change the file extension.
